@@ -1,7 +1,7 @@
 version: 1
 type: npm
 resolver:
-    repo: npm-virtual
+    repo: npm-summary
     serverId: ecosystem
 deployer:
     repo: npm-summary
