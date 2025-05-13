@@ -1,0 +1,15 @@
+{
+  "name": "@pacMod/tempnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "test",
+  "license": "ISC",
+  "dependencies": {
+    "xml": "1.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
